@@ -1,4 +1,2 @@
 # GreedyDwarf
-Ivana Pavlovic
-Jazbel Lopez 
-Alyssa Mihok
+Developed by: Ivana Pavlovic, Jazbel Lopez, and Alyssa Mihok
